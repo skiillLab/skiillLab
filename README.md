@@ -16,9 +16,6 @@ iOS/visionOS
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [azooKey Desktop](https://github.com/ensan-hcl/azooKey-Desktop) | - | 未踏IT採択。macOS向けパーソナライズIME |
-| [filetree](https://github.com/nyanko3141592/filetree) | 96 | Vimキーバインドの高速ファイルエクスプローラーTUI |
-| [tmuxcc](https://github.com/nyanko3141592/tmuxcc) | 33 | AIコーディングエージェント管理ダッシュボード |
-| [EasyScreenRecord](https://github.com/nyanko3141592/EasyScreenRecord) | 26 | スマートズーム機能付きmacOS画面録画 |
 
 
 <!--
